@@ -109,7 +109,7 @@ db.posts.find()
 ### Get All Rows Formatted
 
 ```js
-db.find().pretty()
+db.posts.find().pretty()
 ```
 
 ### Find Rows
